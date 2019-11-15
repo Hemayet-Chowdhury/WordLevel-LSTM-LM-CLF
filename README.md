@@ -3,6 +3,8 @@ Word Level LSTM Language Model and Classifier for Authorship Attribution on Beng
 
 DataSet Link - Wikipedia dataset : https://drive.google.com/file/d/1MoyTCHL9zqt2UF_iU2k4z0i_AVvls0ry/view?usp=sharing
 
+(Replace paths of datasets with your own in order to replicate the work)
+
 This project trains an ASGD Weight Dropped LSTM Language Model on a Word Level. (We extend the wok on a subword level in another repo)
 
 Uses the 3 layer Deep Language Model instead of a single word embedding representation.
